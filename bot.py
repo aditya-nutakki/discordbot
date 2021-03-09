@@ -118,7 +118,7 @@ async def kill(ctx , member :discord.Member , * , reason = None):
 
 
 
-
-client.run("NzQ4OTAyNTY1MDAxMDM1Nzg3.X0kL3Q.3KC_F8vf2hXCel1O9gGuVWQB0Rg")
+auth_token = ""
+client.run(auth_token)
 
 
